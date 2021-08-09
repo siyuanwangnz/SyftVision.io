@@ -1,37 +1,73 @@
-## Welcome to GitHub Pages
+SyftVision - Version Log
+-
+### version 1.0.4.0:
+1. Add ICF Check on Setting Check
 
-You can use the [editor on GitHub](https://github.com/lmnwsy/SyftVision.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### version 1.0.3.9:
+1. Add Copy to Clipboard Fucntion
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### version 1.0.3.7:
+1. Add Mass Driven Indicator
 
-### Markdown
+### version 1.0.3.6:
+1. Add Batch Scans Status Check Function on Batch Analysis
+2. Add Mass Driven Check on Setting Check
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### version 1.0.3.3:
+1. Add Time Picker on Overnight Scan
+2. Add ETC Folder Backup Function on Setting Check
+3. Update Batch List Matching Error Log Format
 
-```markdown
-Syntax highlighted code block
+### version 1.0.3.1:
+1. Add Range Check to Open and Add Button in the Setting Check Module
 
-# Header 1
-## Header 2
-### Header 3
+### version 1.0.3.0:
+1. Add Infinity End of Benchmark Check
+2. Reformat PDF Report
 
-- Bulleted
-- List
+### version 1.0.2.8:
+1. Add DPIS Cold Start
+2. Add Infinity Cold Start
+3. Add DPIS Sensitivty and Impurity Quick Check
+4. Add Infinity Sensitivty and Impurity Quick Check
+5. Improve Process Speed
 
-1. Numbered
-2. List
+### version 1.0.2.7:
+1. Add SPIS Double Overnight Check
+ 
+### version 1.0.2.6:
+1. Add SPIS Overnight Scan Check
+2. Add SPIS ON/Off Scan Check
+3. Add SPIS EOV Scan Check
+4. Add SPIS Weekend Scan Check
+5. Add DPIS EOV Scan Check
+6. Add SPIS Setting Check
 
-**Bold** and _Italic_ and `Code` text
+### version 1.0.1.11:
+1. Fix bug of impurity calculation
+2. Fix bug of DPIS navigate button display
+3. Fix title of chart
+4. Change couple of chart formate
 
-[Link](url) and ![Image](src)
-```
+### version 1.0.1.7:
+1. Fix report name 
+2. Keyboard Enter is available
+3. Fix 30/32 Diff bug of injection scan
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### version 1.0.1.3:
+1. Add overnight scan module
 
-### Jekyll Themes
+### version 1.0.0.4:
+1. Fix DPIS DWS Specific lens setting
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lmnwsy/SyftVision.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### version 1.0.0.3:
+1. Change setting source file from etc file to scan file
+2. Comparison function (open and add button) is selecting xml file now
+3. Any xml scan file can be used for setting comparison
+4. Binding Enter key event for text box
 
-### Support or Contact
+### version 1.0.0.1:
+1. Add autoupdater for program updating.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### version 1.0.0.0:
+1. Base version
