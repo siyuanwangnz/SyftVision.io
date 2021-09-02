@@ -1,5 +1,8 @@
 SyftVision - Version Log
 -
+### version 1.0.4.4:
+1. Add password configuration
+
 ### version 1.0.4.0:
 1. Add ICF Check on Setting Check
 
